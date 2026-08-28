@@ -15,12 +15,6 @@
 AI Engineer at [Noursoft](https://www.linkedin.com/company/noursoftco) · Computer Engineering, [E-JUST](https://ejust.edu.eg/) · Alexandria, Egypt
 
 <p>
-  <a href="https://www.linkedin.com/in/bassantelsomkhraty/"><img src="assets/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:bassant.tarek@ejust.edu.eg"><img src="assets/gmail.svg" width="32" height="32" alt="Gmail"/></a>
-</p>
-
-<p>
 <a href="https://www.linkedin.com/in/bassantelsomkhraty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bassant.tarek@ejust.edu.eg"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://ieeexplore.ieee.org/document/10753216"><img src="https://img.shields.io/badge/IEEE-NILES%202024-00629B?style=for-the-badge" alt="IEEE"/></a>
