@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
 </p>
 
-AI Engineer at [Noursoft](https://www.linkedin.com/company/noursoftco) · Computer Engineering, [E-JUST](https://ejust.edu.eg/) · Alexandria, Egypt
+### AI Engineer at [Noursoft](https://www.linkedin.com/company/noursoftco)
+
+Computer Engineering, [E-JUST](https://ejust.edu.eg/) · Alexandria, Egypt
 
 <p>
 <a href="https://www.linkedin.com/in/bassantelsomkhraty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
