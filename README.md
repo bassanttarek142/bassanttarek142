@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.svg" width="100%" alt="Bassant Elsomkhraty"/>
+<img src="assets/cover.svg?v=11" width="100%" alt="Bassant Elsomkhraty"/>
 
 # Bassant Elsomkhraty
 
