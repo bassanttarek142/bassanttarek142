@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/cover.png" width="100%" alt="Cover"/>
+<img src="assets/cover.svg" width="100%" alt="Bassant Elsomkhraty"/>
 
 # Bassant Elsomkhraty
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=740&lines=Machine+Learning+Engineer;Generative+AI+%26+Model+Optimization;NLP+%C2%B7+LLMs+%C2%B7+AI+Agents)](https://github.com/bassanttarek142)
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ML"/>
