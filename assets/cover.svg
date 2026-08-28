@@ -14,18 +14,18 @@
   </g>
       <text x="768" y="228" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#7DD3FC">
     Machine Learning Engineer
-    <animate attributeName="opacity" dur="6.4s" repeatCount="indefinite" keyTimes="0;0.02;0.20;0.25;1" values="0;1;1;0;0"/>
+    <animate attributeName="opacity" dur="4s" repeatCount="indefinite" keyTimes="0;0.02;0.20;0.25;1" values="0;1;1;0;0"/>
   </text>
   <text x="768" y="228" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#7DD3FC" opacity="0">
     Generative AI &amp; Model Optimization
-    <animate attributeName="opacity" dur="6.4s" repeatCount="indefinite" keyTimes="0;0.25;0.27;0.45;0.50;1" values="0;0;1;1;0;0"/>
+    <animate attributeName="opacity" dur="4s" repeatCount="indefinite" keyTimes="0;0.25;0.27;0.45;0.50;1" values="0;0;1;1;0;0"/>
   </text>
   <text x="768" y="228" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#7DD3FC" opacity="0">
     NLP  ·  LLMs  ·  AI Agents
-    <animate attributeName="opacity" dur="6.4s" repeatCount="indefinite" keyTimes="0;0.50;0.52;0.70;0.75;1" values="0;0;1;1;0;0"/>
+    <animate attributeName="opacity" dur="4s" repeatCount="indefinite" keyTimes="0;0.50;0.52;0.70;0.75;1" values="0;0;1;1;0;0"/>
   </text>
   <text x="768" y="228" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#7DD3FC" opacity="0">
     Automation  ·  MLOps  ·  Kubernetes
-    <animate attributeName="opacity" dur="6.4s" repeatCount="indefinite" keyTimes="0;0.75;0.77;0.93;0.99;1" values="0;0;1;1;0;0"/>
+    <animate attributeName="opacity" dur="4s" repeatCount="indefinite" keyTimes="0;0.75;0.77;0.93;0.99;1" values="0;0;1;1;0;0"/>
   </text>
 </svg>
