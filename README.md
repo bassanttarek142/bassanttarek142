@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.svg?v=8" width="100%" alt="Bassant Elsomkhraty"/>
+<img src="https://raw.githubusercontent.com/bassanttarek142/bassanttarek142/main/assets/cover.svg?cache=8s" width="100%" alt="Bassant Elsomkhraty"/>
 
 # Bassant Elsomkhraty
 
