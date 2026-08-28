@@ -15,10 +15,10 @@
         fill: #7DD3FC;
         text-anchor: middle;
       }
-      .t1 { animation: slide1 11s infinite; }
-      .t2 { animation: slide2 11s infinite; opacity: 0; }
-      .t3 { animation: slide3 11s infinite; opacity: 0; }
-      .t4 { animation: slide4 11s infinite; opacity: 0; }
+      .t1 { animation: slide1 8s infinite; }
+      .t2 { animation: slide2 8s infinite; opacity: 0; }
+      .t3 { animation: slide3 8s infinite; opacity: 0; }
+      .t4 { animation: slide4 8s infinite; opacity: 0; }
       @keyframes slide1 {
         0%, 20% { opacity: 1; }
         25%, 100% { opacity: 0; }
