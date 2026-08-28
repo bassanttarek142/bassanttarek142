@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/cover.png" width="100%" alt="Cover"/>
+
 # Bassant Elsomkhraty
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=740&lines=Machine+Learning+Engineer;Generative+AI+%26+Model+Optimization;NLP+%C2%B7+LLMs+%C2%B7+AI+Agents)](https://github.com/bassanttarek142)
